@@ -1,3 +1,7 @@
+[![GEE](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?logo=googleearth&logoColor=white)](https://earthengine.google.com/)
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)](https://python.org)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 # GEE + xclim QDM Bias Correction Pipeline
 
 A scientifically rigorous Python pipeline for bias-correcting CMIP6 climate projections using **Quantile Delta Mapping (QDM)**, with observational reference data fetched via Google Earth Engine (GEE) and processing powered by `xclim`/`xsdba`.
